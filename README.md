@@ -21,6 +21,7 @@ Create an interactive Power BI dashboard for visualization
 Provide actionable insights from housing data
 
 🧠 Machine Learning Implementation
+
 🔹 Data Preprocessing
 
 Handling missing values
@@ -64,6 +65,7 @@ And other structural attributes
 
 📊 Power BI Dashboard Overview
 
+
 The Power BI dashboard provides interactive insights including:
 
 🔹 KPI Cards
@@ -106,7 +108,9 @@ Year Built
 
 This enables dynamic exploration of housing trends and pricing patterns.
 
+
 📈 Key Insights
+
 
 Houses with higher Overall Quality have significantly higher sale prices.
 
@@ -118,7 +122,9 @@ Certain neighborhoods consistently show higher average sale prices.
 
 Garage Area and Total Basement Area also contribute positively to pricing.
 
+
 🛠️ Tools & Technologies Used
+
 
 Python
 
